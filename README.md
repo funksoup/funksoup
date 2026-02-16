@@ -1,5 +1,5 @@
 # Josephine Dorado
-### AI Learning & Adoption Strategist | AI Ambassador | Immersive Learning Pioneer | EdTech Innovator
+### AI Learning Strategist | AI Ambassador | Immersive Learning Pioneer | EdTech Innovator
 
 Building AI literacy programs and enablement tools to democratize AI adoption across enterprise teams.
 
