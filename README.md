@@ -12,11 +12,11 @@ Building AI literacy and immersive learning experiences that democratize adoptio
 - 🌐 Cross-functional AI Champions Network development
 
 ## 🛠️ Tech Stack
-**AI Platforms:** OpenAI (GPT-4, APIs, SDKs) • Claude (Anthropic) • Google Gemini • Microsoft Copilot • Azure AI • LangChain
-**Immersive/XR Platforms:** A-Frame • Babylon.js • WebXR
-**Languages:** JavaScript • Python • Node.js • HTML/CSS • SQL
-**AI/ML Tools:** LangChain • ChromaDB • Pinecone • Streamlit • Pandas • NumPy
-**Education Tech:** Canvas • Moodle • Articulate 360 • Adobe Captivate • Confluence
+- **AI Platforms:** OpenAI (GPT-4, APIs, SDKs) • Claude (Anthropic) • Google Gemini • Microsoft Copilot • Azure AI • LangChain
+- **Immersive/XR Platforms:** A-Frame • Babylon.js • WebXR
+- **Languages:** JavaScript • Python • Node.js • HTML/CSS • SQL
+- **AI/ML Tools:** LangChain • ChromaDB • Pinecone • Streamlit • Pandas • NumPy
+- **Education Tech:** Canvas • Moodle • Articulate 360 • Adobe Captivate • Confluence
 
 ## 🚀 Projects in Progress
 ### 📖 [Prompt Engineering Toolkit](https://github.com/funksoup/prompt-engineering-toolkit)
