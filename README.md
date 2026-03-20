@@ -19,7 +19,7 @@ Building AI literacy and immersive learning experiences that democratize adoptio
 - **Education Tech:** Canvas • Moodle • Articulate 360 • Adobe Captivate • Confluence
 
 ## 🚀 Projects in Progress
-### 🍫🥦 Chocolate-Covered Broccoli Challenge
+### 🍫🥦 [Chocolate-Covered Broccoli Challenge](https://github.com/funksoup/chocolate-broccoli-challenge)
 A free, browser-based tool that walks educators and learning designers through a structured 5-level process for creating genuinely fun educational games — not just quizzes wearing a game costume.
 **Tech:** HTML5 • CSS3 • Vanilla JS • Claude (AI-assisted development)
 
