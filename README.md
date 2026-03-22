@@ -15,7 +15,7 @@ Building AI literacy and immersive learning experiences that democratize adoptio
 - **AI Platforms:** OpenAI (GPT-4, APIs, SDKs, Sora) • Claude & Claude Code (Anthropic) • Microsoft Copilot • Midjourney • Google Gemini 
 - **Immersive/XR Platforms:** A-Frame • Babylon.js • WebXR
 - **Languages:** JavaScript • Python • Node.js • HTML/CSS • SQL
-- **AI/ML Tools:** LangChain • ChromaDB • Pinecone • Streamlit • Pandas • NumPy
+- **AI/ML Tools:** LangChain • Streamlit 
 - **Education Tech:** Canvas • Moodle • Articulate 360 • Adobe Captivate • Confluence
 
 ## 🚀 Projects in Progress
