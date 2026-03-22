@@ -12,7 +12,7 @@ Building AI literacy and immersive learning experiences that democratize adoptio
 - 🌐 Cross-functional AI Champions Network development
 
 ## 🛠️ Tech Stack
-- **AI Platforms:** OpenAI (GPT-4, APIs, SDKs) • Claude (Anthropic) • Google Gemini • Microsoft Copilot • Azure AI • LangChain
+- **AI Platforms:** OpenAI (GPT-4, APIs, SDKs, Sora) • Claude & Claude Code (Anthropic) • Microsoft Copilot • Midjourney • Google Gemini 
 - **Immersive/XR Platforms:** A-Frame • Babylon.js • WebXR
 - **Languages:** JavaScript • Python • Node.js • HTML/CSS • SQL
 - **AI/ML Tools:** LangChain • ChromaDB • Pinecone • Streamlit • Pandas • NumPy
