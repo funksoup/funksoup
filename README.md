@@ -4,7 +4,7 @@
 Building AI literacy and immersive learning experiences that democratize adoption across enterprise teams.
 
 ## 🎯 Focus Areas
-- 🤖 Enterprise AI adoption & workforce training
+- 🤖 Responsible AI adoption & workforce training
 - 🎓 Prompt engineering education & curriculum design
 - 📚 RAG-based knowledge systems & semantic search
 - 🔄 Agentic workflow design & automation
