@@ -5,11 +5,11 @@ Building AI literacy and immersive learning experiences that democratize adoptio
 
 ## 🎯 Focus Areas
 - 🤖 Responsible AI adoption & workforce training
+- 🧭 Immersive learning & spatial intelligence
 - 🎓 Prompt engineering education & curriculum design
 - 📚 RAG-based knowledge systems & semantic search
 - 🔄 Agentic workflow design & automation
 - ⚖️ AI governance & responsible AI frameworks
-- 🌐 Cross-functional AI Champions Network development
 
 ## 🛠️ Tech Stack
 - **AI Platforms:** OpenAI (GPT-4, APIs, SDKs, Sora) • Claude & Claude Code (Anthropic) • Microsoft Copilot • Midjourney • Google Gemini 
