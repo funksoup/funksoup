@@ -9,7 +9,7 @@ Building AI literacy and immersive learning experiences that democratize adoptio
 - 🎓 Prompt engineering education & curriculum design
 - 📚 RAG-based knowledge systems & semantic search
 - 🔄 Agentic workflow design & automation
-- ⚖️ AI governance & responsible AI frameworks
+- ⚖️ AI governance & ethical AI frameworks
 
 ## 🛠️ Tech Stack
 - **AI Platforms:** OpenAI (GPT-4, APIs, SDKs, Sora) • Claude & Claude Code (Anthropic) • Microsoft Copilot • Midjourney • Google Gemini 
