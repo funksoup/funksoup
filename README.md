@@ -19,13 +19,17 @@ Building AI literacy and immersive learning experiences that democratize adoptio
 - **Education Tech:** Canvas • Moodle • Articulate 360 • Adobe Captivate • Confluence
 
 ## 🚀 Projects in Progress
-### 🍫🥦 [Chocolate-Covered Broccoli Challenge](https://github.com/funksoup/chocolate-broccoli-challenge)
-A free, browser-based tool that walks educators and learning designers through a structured 5-level process for creating genuinely fun educational games — not just quizzes wearing a game costume.
-**Tech:** HTML5 • CSS3 • Vanilla JS • Claude (AI-assisted development)
-
 ### 📖 [Prompt Engineering Toolkit](https://github.com/funksoup/prompt-engineering-toolkit)
 Interactive educational tool demonstrating prompt engineering concepts including few-shot learning, chain-of-thought reasoning, and prompt chaining. Compare outputs from OpenAI and Claude side-by-side.
 **Tech:** Python • OpenAI API • Claude API • Streamlit
+
+### 🏛️ [The Architect's Apprentice](https://github.com/funksoup/Architects_Apprentice)
+Interactive geometry game that teaches mathematical concepts through the architecture of the Global South, with personalised Socratic feedback powered by Claude. **[▶ Live Demo](https://architects-apprentice.vercel.app/)**
+**Tech:** HTML5 • CSS3 • Vanilla JS • Claude API • Vercel
+
+### 🍫🥦 [Chocolate-Covered Broccoli Challenge](https://github.com/funksoup/chocolate-broccoli-challenge)
+A free, browser-based tool that walks educators and learning designers through a structured 5-level process for creating genuinely fun educational games — not just quizzes wearing a game costume.
+**Tech:** HTML5 • CSS3 • Vanilla JS • Claude (AI-assisted development)
 
 ### 🔍 [Enterprise Knowledge Assistant](https://github.com/funksoup/enterprise-knowledge-assistant) *(coming soon)*
 RAG-based document Q&A system with semantic search, embeddings, and source citation. Upload PDFs and query your documents using natural language.
