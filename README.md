@@ -28,7 +28,7 @@ Interactive geometry game that teaches mathematical concepts through the archite
 **Tech:** HTML5 • CSS3 • Vanilla JS • Claude API • Vercel
 
 ### 🍫🥦 [Chocolate-Covered Broccoli Challenge](https://github.com/funksoup/chocolate-broccoli-challenge)
-A free, browser-based tool that walks educators and learning designers through a structured 5-level process for creating genuinely fun educational games — not just quizzes wearing a game costume.
+A free, browser-based tool that walks educators and learning designers through a structured 5-level process for creating genuinely fun educational games — not just quizzes wearing a game costume. **[▶ Live Demo](https://funksoup.github.io/chocolate-broccoli-challenge/)
 **Tech:** HTML5 • CSS3 • Vanilla JS • Claude (AI-assisted development)
 
 ### 🔍 [Enterprise Knowledge Assistant](https://github.com/funksoup/enterprise-knowledge-assistant) *(coming soon)*
