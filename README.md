@@ -25,11 +25,11 @@ Interactive educational tool demonstrating prompt engineering concepts including
 
 ### 🏛️ [The Architect's Apprentice](https://github.com/funksoup/Architects_Apprentice)
 Interactive geometry game that teaches mathematical concepts through the architecture of the Global South, with personalised Socratic feedback powered by Claude. **[▶ Live Demo](https://architects-apprentice.vercel.app/)**
-**Tech:** HTML5 • CSS3 • Vanilla JS • Claude API • Vercel
+**Tech:** HTML5 • CSS3 • Vanilla JS • Claude API • Claude Code • Vercel
 
 ### 🍫🥦 [Chocolate-Covered Broccoli Challenge](https://github.com/funksoup/chocolate-broccoli-challenge)
 A free, browser-based tool that walks educators and learning designers through a structured 5-level process for creating genuinely fun educational games — not just quizzes wearing a game costume. [▶ Live Demo](https://funksoup.github.io/chocolate-broccoli-challenge/)
-**Tech:** HTML5 • CSS3 • Vanilla JS • Claude (AI-assisted development)
+**Tech:** HTML5 • CSS3 • Vanilla JS • Claude Code
 
 ### 🔍 [Enterprise Knowledge Assistant](https://github.com/funksoup/enterprise-knowledge-assistant) *(coming soon)*
 RAG-based document Q&A system with semantic search, embeddings, and source citation. Upload PDFs and query your documents using natural language.
