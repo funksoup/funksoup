@@ -45,7 +45,7 @@ Agentic system using ReAct patterns to design personalized learning curricula. T
 **Tech:** Python • LangChain Agents • OpenAI Function Calling • Streamlit
 
 ## 🎓 Background
-15+ years engineering enterprise-scale training systems across healthcare, defense, government, and financial services. Two-time Fulbright Scholar with experience deploying educational technology across 12+ countries. Former Media Studies Professor at The New School (2007-2025) pioneering immersive learning environments.
+15+ years delivering technical solutions and immersive architectures across healthcare, defense, government, and financial services. Two-time Fulbright Scholar with experience deploying educational technology across 12+ countries. Former Media Studies Professor at The New School (2007-2025) pioneering immersive learning environments.
 
 Currently focused on AI governance, enterprise AI adoption strategies, and building AI literacy programs that make generative AI accessible to non-technical teams.
 
