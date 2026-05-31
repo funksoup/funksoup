@@ -6,6 +6,7 @@ Building AI literacy and immersive learning experiences that democratize adoptio
 ## 🎯 Focus Areas
 - 🤖 Responsible AI adoption & workforce training
 - 🧭 Immersive learning & spatial intelligence
+- 🔄 Digital human interfaces & motion data mapping workflows
 - 🎓 Prompt engineering education & curriculum design
 - 📚 RAG-based knowledge systems & semantic search
 - 🔄 Agentic workflow design & automation
